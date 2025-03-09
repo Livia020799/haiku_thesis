@@ -15,10 +15,6 @@ Collected from [Modern Haiku Association](https://haiku-data.jp/index.php)<br>
 `})` <br>
 Authors: 4625 (of which approximately 100 are famous haiku poets according to ChatGPT) & other info in **`HuggingFace_haiku.ipynb`**
 
-- A list of kigo (seasonal haiku) with their corresponding season scraped from ["Ouchi de Haiku Kurabu"](https://ouchidehaiku.com/spring/contents/seasonwords). Available in the repository both divided by season and in a full corpus.<br>
-Number of haiku (rows): 20899, with also pronunciation and season attirbutes.<br>
-No Author name mentioned.
-
 - [Matsuo Basho haiku dataset](https://github.com/Mig29x/Haiku-Kanjis)., tagged with the pronunciation, date and season.<br>
 Number of haiku: 1020.
   
