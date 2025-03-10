@@ -49,8 +49,10 @@ In the study *"Implementation of Autoregressive Language Models for Generation o
 1)Perplexity<br>
 2)Seasonal Keyword Accuracy<br>
 3)Human evaluation<br>
-**METRICA AD HOC??**
-   
+**METRICA AD HOC??**<br>
+Chiedere ai GPT come gli sembra essere in termini di aderenza alla struttura metrica
+
+
 ### 5. ***Questionari*** <br>
 POssible point to cover for questionnaire:<br>
 1)Structure (mora count)
