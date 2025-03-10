@@ -20,7 +20,9 @@ Number of haiku: 1020.
 
 - There is also a variety of synthetic datasets, like [this one](https://huggingface.co/datasets/davanstrien/haiku_dpo) plus the code used to generate [it](https://github.com/davanstrien/haiku-dpo?tab=readme-ov-file), but they are in english (could a similar thing be done with haiku in japanese?)
 
-- Kinda a [kigo dictionary](https://github.com/Livia020799/Japanese-haiku-kigo-corpus)
+- Kinda a [kigo dictionary](https://github.com/Livia020799/Japanese-haiku-kigo-corpus)<br>
+Scraped from a [website of haiku](https://ouchidehaiku.com/spring/contents/seasonwords) both in a full comprehensive corpus and divided by seasons.<br>
+I keigo sono parole e/o frasi brevi legate alle stagioni ma che non compongono un haiku intero. Possono essere usate poi per la tokenizzazione perché aiutano a determinare l'haiku a quale stagione si riferisce. La repository contiene anche il codice per lo scraping.
 
 
 ### 2. ***Tokenizzazione giapponese*** <br>
