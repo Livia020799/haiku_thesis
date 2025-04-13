@@ -1,5 +1,7 @@
 # haiku_thesis
 
+User study website : [prolific](https://www.prolific.com/)
+
 [SakanaAI](https://sakana.ai/ai-scientist/) chatbot [Karamaru](https://x.com/SakanaAILabs/status/1906968656120254696) that converses in Edo period language <br> 
 Nomi dell'algoritmo : KamiHaiku, IssaGen, BashoBot, HaikuSensei
 
