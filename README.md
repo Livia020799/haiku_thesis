@@ -1,6 +1,6 @@
 # haiku_thesis
 
-Other options for tokenizers : Spacy + controllare se Yandex ha rilasciato qualche tokenizer
+Other options for tokenizers : [SpaCy](https://spacy.io/models/ja/) + controllare se Yandex ha rilasciato qualche tokenizer
 
 User study website : [prolific](https://www.prolific.com/)
 
