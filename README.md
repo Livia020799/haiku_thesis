@@ -1,5 +1,10 @@
 # haiku_thesis
 
+### MAIN OBJECTIVE: <br>
+To see the limits of existing technology to generate haiku and use haiku as testbead of things that are more difficoult to generate. To evaluate creative capabilities of LLMs.
+
+---
+
 Other options for tokenizers : [SpaCy](https://spacy.io/models/ja/) + [Yandex GPT-5 Tokenizer](https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain)
 
 User study website : [prolific](https://www.prolific.com/)
