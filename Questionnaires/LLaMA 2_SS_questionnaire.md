@@ -1,8 +1,5 @@
 # Haiku Evaluation Questionnaire - Human vs AI (Spring and Summer Version - LLaMA)
 
-> Verbatim, page-by-page Markdown transcription of the supplied Google Forms PDF.
-> All extracted questionnaire content is preserved, including each individual haiku, both language branches, response options, instructions, consent text, and closing text.
-
 ---
 
 ## PDF page 1
